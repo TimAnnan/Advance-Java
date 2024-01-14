@@ -1,3 +1,5 @@
+// A simplified version of BatchInsert to the MYSQL DB by inserting values to an existing table. 
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
